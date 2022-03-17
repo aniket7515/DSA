@@ -7,6 +7,8 @@ HashMaps and Heaps
    - Get Common Element One
     </br>
    - Get Element 2
+   - </br>
+   - High Frequency Character
 
 </br>
 -Strings and string Builders
