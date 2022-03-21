@@ -13,6 +13,8 @@ HashMaps and Heaps
    - Intro
 
 </br>
--Strings and string Builders
+Strings and string Builders
 </br>
  -Remove Prime Numbers
+ </br>
+ -StringBuilders
