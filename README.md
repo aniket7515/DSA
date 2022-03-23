@@ -18,3 +18,5 @@ Strings and string Builders
  -Remove Prime Numbers
  </br>
  -StringBuilders
+ </br>
+ -String Compression
