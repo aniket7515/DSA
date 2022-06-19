@@ -22,3 +22,5 @@ Strings and string Builders
  -String Compression
  </br>
  -Toggle Case
+</br>
+-Arrays
