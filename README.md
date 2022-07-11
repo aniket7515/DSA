@@ -24,3 +24,5 @@ Strings and string Builders
  -Toggle Case
 </br>
 -Arrays
+</br>
+Searching
