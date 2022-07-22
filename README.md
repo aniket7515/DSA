@@ -26,3 +26,5 @@ Strings and string Builders
 -Arrays
 </br>
 Searching
+</br>
+Sorting
